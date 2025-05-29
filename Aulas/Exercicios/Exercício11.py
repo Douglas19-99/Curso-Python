@@ -47,7 +47,8 @@ if nome.strip() == "":
     print("Nome não informado.")
 else:
     print(f"Olá, {nome}!")
-=======
+
+'''
 Peça dois números ao usuário e diga qual é o maior, ou se são iguais.
 Se o usuário não digitar números válidos, exiba uma mensagem de erro.
 '''
@@ -135,4 +136,4 @@ Considere o ano atual como 2025 (ou use datetime se quiser evoluir o código).
 # else:
 #     print(f'Você nasceu em {idade} e é menor de idade.')
 
->>>>>>> c599777b54df6f8067c3345dd9ae1371c00ecc9f
+
